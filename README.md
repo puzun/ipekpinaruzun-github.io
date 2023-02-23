@@ -1,19 +1,19 @@
-#h1 Heading
-##h2 Heading
-###h3 Heading 
-####h4 Heading
-#####h5 Heading
-######h6 Heading
+# h1 Heading
+## h2 Heading
+### h3 Heading 
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading
 
 
-##Horizontal Rules
+## Horizontal Rules
 
 ___
 
 
-##Emphasis
+## Emphasis
 
-**This is bold text**
+** This is bold text **
 
 __This is bold text__
 
