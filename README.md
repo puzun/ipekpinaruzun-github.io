@@ -9,9 +9,17 @@ Subsequently, I completed my post-doc on the acoustic characteristics of compoun
 ![uzun](https://github.com/puzun/ipekpinaruzun-github.io/assets/56761290/b5fab8d9-14f2-4f96-ab9c-a2a5b356e51e)
 
 
-## h2 Heading
+## Latest News 
 
-### h3 Heading 
+### Conferences in 2024
+
+16-17 May 2024
+We presented our work with Merve Nur Arslan on the intervocalic position of Turkish /h/ at 37. National Conference on Linguistics (https://udk.kocaeli.edu.tr/) in Kocaeli, Turkey 
+
+1-6 July 2024
+In July, I will present my paper, entitled "How pupillary responses reflect the predictability of word stress in Turkish", at the Speech Prosody Conference (SP24) organized in Leiden, The Netherlands.
+
+
 #### h4 Heading
 ##### h5 Heading
 ###### h6 Heading
