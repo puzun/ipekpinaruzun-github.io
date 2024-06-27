@@ -10,7 +10,7 @@ Subsequently, I completed my post-doc on the acoustic characteristics of compoun
 
 ## Latest News 
 
-### Conferences in 2024
+## Conferences in 2024
 
 16-17 May 2024
 We presented our work with Merve Nur Arslan on the intervocalic position of Turkish /h/ at 37. National Conference on Linguistics in Kocaeli, Turkey 
@@ -18,10 +18,10 @@ We presented our work with Merve Nur Arslan on the intervocalic position of Turk
 1-6 July 2024
 In July, I will present my paper, entitled "How pupillary responses reflect the predictability of word stress in Turkish", at the Speech Prosody Conference (SP24) organized in Leiden, The Netherlands.
 
-#### Summer School on Acoustic Phonetics 
+## Summer School on Acoustic Phonetics 
 
 
-#### Books
+## Books
 
 The 2nd Edition of the book “Türkçenin Ses Dizgesi”(Sound System of Turkish), which includes sound recordings and phonological analyzes taken at Ankara University Brain Research Application and Research Center Phonetics Laboratory, has been published by Seçkin Publishing. You can click on the link to access.
 
@@ -37,15 +37,15 @@ The book “Kuramsal ve Uygulamalı Sesbilim” (Theoretical and Applied Phonolo
 
  
 
-#### Completed & Ongoing Projects
+## Completed & Ongoing Projects
 
-##### (2024-2025)
+### (2024-2025)
 Tübitak 1002 – Short Term R&D Funding Program
 Project Title: Türkçe Bileşik Sözcüklerin Sözlü Dilde Üretim Süreçlerine İlişkin Akustik Sesbilgisel Görünümler
 Coordinator: İpek Pınar Uzun
 Project No: 231K318
 
-##### (2022-2023)
+### (2022-2023)
 Tübitak 1002 – Short Term R&D Funding Program
 Project Title: Türkçe Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Göz Hareketlerini İzleme Tekniğine Dayalı Bir Çözümleme
 Coordinator: İpek Pınar Uzun
@@ -53,13 +53,13 @@ Researcher: Alper Kumcu
 Project Assistant: Selin Çalışkan
 Project No: 122K664
 
-##### (2022)
+### (2022)
 Tübitak-Bideb 2219 Post-Doc Research Fellowship, 2019
 Saarland University, Saarbruecken, Almanya
 Coordinator: İpek Pınar Uzun
 Advisor: Bernd Möbius
 
-##### (2020-2021)
+### (2020-2021)
 Tübitak 1002 – Short Term R&D Funding Program
 Proje Title: Semantic Ambiguity in Quantifiers in Turkish: An Eye-Tracking Study
 Coordinator: Özgür Aydın
@@ -67,7 +67,7 @@ Researcher: İpek Pınar Uzun
 Project Assistant: Cemre Ece Kırcalı
 Project No: 119K761
 
-##### (2013-2016)
+### (2013-2016)
 Tübitak 1001 – The Scientific and Technological Research Projects Funding Program
 Project Title: Phonologic Processing of Turkish: An Electrophysiological Study (ERPs)
 Coordinator: İclal Ergenç
@@ -75,13 +75,13 @@ Researchers: Özgür Aydın, Canan Kalaycıoğlu
 Project Assistant: İpek Pınar Uzun
 Project No: 112K394
 
-##### (2013-2014)
+### (2013-2014)
 Tübitak-Bideb 2214/A Research Fellowship during PhD, 2013
 Max Planck Institute (MPI), Human Cognitive and Brain Sciences, Otto Hahn Research Group (Neural Basis of Intonation), Leipzig, Almanya
 Coordinator: İpek Pınar Uzun
 Supervisors: Angela D. Friederici, Daniela Sammler
 
-##### (2009-2013)
+### (2009-2013)
 Ankara Üniversitesi Scientific Research Project (BAP)
 Project Title: Gelişimsel Disleksi: Dilbilim ve EEG Verilerinin İlişkilendirilmesi
 Coordinator: Canan Kalaycıoğlu
@@ -89,13 +89,13 @@ Researchers:: İclal Ergenç, Sıla Ay, İpek Pınar Uzun, Simge Aykan, Başak A
 Project No: 10B3030001
 
  
-#### Publications
+## Publications
 
-##### (2023)
+#### (2023)
 Uzun, İ.P. (2023). Prosodic and analogical effects in phonetic realization in Turkish noun-noun compounds. Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi, 40(2).
 
 
-##### (2022)
+#### (2022)
 Uzun, İ.P., Kırcalı, C.E., & Güçlütürk, Y. (2022). İkinci Dil Olarak Türkçe Öğretiminde Ünlü Boşluğu Dizilişlerinin Sesbilimsel Görünümleri. In K. İşeri & B. Çetin  (eds.), Türkçenin Eğitimi-Öğretiminde Kuramsal ve Uygulamalı Çalışmalar (12) (pp. 79-91). Türk Dil Kurumu Yayınları. ISBN 978-975-17-5096-9
 
 Aydın, Ö. & Uzun, İ.P. (2022). Pupil Dilation Response to Prosody and Syntax During Auditory Sentence Processing. Journal of Psycholinguistic Research, 52, 153–177 (2023). https://doi.org/10.1007/s10936-021-09830-y
