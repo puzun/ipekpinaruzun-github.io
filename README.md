@@ -23,15 +23,13 @@ In July, I will present my paper, entitled "How pupillary responses reflect the 
 
 # Books
 
-The 2nd Edition of the book “Türkçenin Ses Dizgesi”(Sound System of Turkish), which includes sound recordings and phonological analyzes taken at Ankara University Brain Research Application and Research Center Phonetics Laboratory, has been published by Seçkin Publishing. You can click on the link to access.
+The 2nd Edition of the book “Türkçenin Ses Dizgesi”(Sound System of Turkish)
+
+![1](https://github.com/puzun/ipekpinaruzun-github.io/assets/56761290/73849256-b4c1-4a31-b1e4-c56d14f2dd3a)
 
 
- ![1](https://github.com/puzun/ipekpinaruzun-github.io/assets/56761290/73849256-b4c1-4a31-b1e4-c56d14f2dd3a)
 
-
-
-The book “Kuramsal ve Uygulamalı Sesbilim” (Theoretical and Applied Phonology), which includes the research carried out in the Phonetics Laboratory of Ankara University Brain Research Application and Research Center, has been published by Seçkin Publishing. You can click on the link to access.
-
+The book “Kuramsal ve Uygulamalı Sesbilim” (Theoretical and Applied Phonology)
 
  ![2](https://github.com/puzun/ipekpinaruzun-github.io/assets/56761290/df0f0b52-a84c-44fe-bf3e-d5ee92748026)
 
@@ -40,13 +38,13 @@ The book “Kuramsal ve Uygulamalı Sesbilim” (Theoretical and Applied Phonolo
 # Completed & Ongoing Projects
 
 ### (2024-2025)
-Tübitak 1002 – Short Term R&D Funding Program
+#### Tübitak 1002 – Short Term R&D Funding Program
 Project Title: Türkçe Bileşik Sözcüklerin Sözlü Dilde Üretim Süreçlerine İlişkin Akustik Sesbilgisel Görünümler
 Coordinator: İpek Pınar Uzun
 Project No: 231K318
 
 ### (2022-2023)
-Tübitak 1002 – Short Term R&D Funding Program
+#### Tübitak 1002 – Short Term R&D Funding Program
 Project Title: Türkçe Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Göz Hareketlerini İzleme Tekniğine Dayalı Bir Çözümleme
 Coordinator: İpek Pınar Uzun
 Researcher: Alper Kumcu
@@ -54,13 +52,13 @@ Project Assistant: Selin Çalışkan
 Project No: 122K664
 
 ### (2022)
-Tübitak-Bideb 2219 Post-Doc Research Fellowship, 2019
+#### Tübitak-Bideb 2219 Post-Doc Research Fellowship, 2019
 Saarland University, Saarbruecken, Almanya
 Coordinator: İpek Pınar Uzun
 Advisor: Bernd Möbius
 
 ### (2020-2021)
-Tübitak 1002 – Short Term R&D Funding Program
+#### Tübitak 1002 – Short Term R&D Funding Program
 Proje Title: Semantic Ambiguity in Quantifiers in Turkish: An Eye-Tracking Study
 Coordinator: Özgür Aydın
 Researcher: İpek Pınar Uzun
@@ -68,7 +66,7 @@ Project Assistant: Cemre Ece Kırcalı
 Project No: 119K761
 
 ### (2013-2016)
-Tübitak 1001 – The Scientific and Technological Research Projects Funding Program
+#### Tübitak 1001 – The Scientific and Technological Research Projects Funding Program
 Project Title: Phonologic Processing of Turkish: An Electrophysiological Study (ERPs)
 Coordinator: İclal Ergenç
 Researchers: Özgür Aydın, Canan Kalaycıoğlu
@@ -76,13 +74,13 @@ Project Assistant: İpek Pınar Uzun
 Project No: 112K394
 
 ### (2013-2014)
-Tübitak-Bideb 2214/A Research Fellowship during PhD, 2013
+#### Tübitak-Bideb 2214/A Research Fellowship during PhD, 2013
 Max Planck Institute (MPI), Human Cognitive and Brain Sciences, Otto Hahn Research Group (Neural Basis of Intonation), Leipzig, Almanya
 Coordinator: İpek Pınar Uzun
 Supervisors: Angela D. Friederici, Daniela Sammler
 
 ### (2009-2013)
-Ankara Üniversitesi Scientific Research Project (BAP)
+#### Ankara Üniversitesi Scientific Research Project (BAP)
 Project Title: Gelişimsel Disleksi: Dilbilim ve EEG Verilerinin İlişkilendirilmesi
 Coordinator: Canan Kalaycıoğlu
 Researchers:: İclal Ergenç, Sıla Ay, İpek Pınar Uzun, Simge Aykan, Başak Alpas, Kağan Gürkan
