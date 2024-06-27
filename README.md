@@ -33,7 +33,7 @@ The book “Kuramsal ve Uygulamalı Sesbilim” (Theoretical and Applied Phonolo
 
  ![2](https://github.com/puzun/ipekpinaruzun-github.io/assets/56761290/df0f0b52-a84c-44fe-bf3e-d5ee92748026)
 
- 
+
 
 # Completed & Ongoing Projects
 
@@ -86,7 +86,19 @@ Coordinator: Canan Kalaycıoğlu
 Researchers:: İclal Ergenç, Sıla Ay, İpek Pınar Uzun, Simge Aykan, Başak Alpas, Kağan Gürkan
 Project No: 10B3030001
 
- 
+
+### Ongoing Collaborations 
+Alper Kumcu (Hacettepe University)
+Omnia İbrahim (Saarland University)
+Ethan Kutlu (Iowa University)
+Bahar Aksu (Lancaster & Erzincan Binali Yıldırım University)
+Alexei Kochetov (Toronto University)
+Göktuğ Börtlü (Ankara University)
+Merve Nur Arslan (Ankara University)
+Selen Erden (Ankara University)
+Ömer Şıhanlıoğlu (Ankara University)
+
+
 # Publications
 
 #### (2023)
