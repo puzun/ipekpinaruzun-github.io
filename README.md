@@ -24,11 +24,15 @@ In July, I will present my paper, entitled "How pupillary responses reflect the 
 #### Books
 
 The 2nd Edition of the book “Türkçenin Ses Dizgesi”(Sound System of Turkish), which includes sound recordings and phonological analyzes taken at Ankara University Brain Research Application and Research Center Phonetics Laboratory, has been published by Seçkin Publishing. You can click on the link to access.
+
+
  ![1](https://github.com/puzun/ipekpinaruzun-github.io/assets/56761290/73849256-b4c1-4a31-b1e4-c56d14f2dd3a)
 
 
 
 The book “Kuramsal ve Uygulamalı Sesbilim” (Theoretical and Applied Phonology), which includes the research carried out in the Phonetics Laboratory of Ankara University Brain Research Application and Research Center, has been published by Seçkin Publishing. You can click on the link to access.
+
+
  ![2](https://github.com/puzun/ipekpinaruzun-github.io/assets/56761290/df0f0b52-a84c-44fe-bf3e-d5ee92748026)
 
  
@@ -140,12 +144,12 @@ Uzun, İ.P. (2023). Türkçede Sözcük Vurgusunun Algılanması: Gözbebeği Ö
 Uzun, İ.P. (2022, 19 July). Acoustic correlates of stress in Turkish noun-noun compounds. Saarland University, Phonetics Group, Phonetics Colloquium. Saarbrücken, Germany.
 
 ##### (2021)
-Kırcalı, C.E., Uzun, İ.P., & Aydın, Ö. (2021, 2-4 August). What are the effects of focus on quantifiers in Turkish: An evidence in the visual-world paradigm? [Conference presentation]. 20th International Conference on Turkic Linguistics (ICTL20), Anadolu Üniversitesi, Eskişehir.
-Uzun, İ.P. (2021, 11 Temmuz). Nörodilbilimde uzamsal ve zamansal işlemleme. Dilbilim Öğrenci Platformu, Akademik Sunumlar. https://www.youtube.com/watch?v=79Y_Ke5O9CM
+Kırcalı, C.E., Uzun, İ.P., & Aydın, Ö. (2021, 2-4 August). What are the effects of focus on quantifiers in Turkish: An evidence in the visual-world paradigm? 20th International Conference on Turkic Linguistics (ICTL20), Anadolu Üniversitesi, Eskişehir.
+Uzun, İ.P. (2021, 11 Temmuz). Nörodilbilimde uzamsal ve zamansal işlemleme. Dilbilim Öğrenci Platformu, Akademik Sunumlar.
 Aydın, Ö., Uzun, İ.P., Özer, E. (2021). Dilbilimde niteliksel ölçüm yöntemleri (göz izleme ve EEG). Nörobilim ve Nöroteknoloji Mükemmeliyet Merkezi (NÖROM) Seminerleri. 15 Mart 2021, Ankara. 
-Kırcalı, C.E., Uzun, İ.P., & Aydın, Ö. (2021, 20-21 March). Syntactic and Prosodic Processing of Quantifier Ambiguity in Turkish [Conference presentation]. 45th annual Penn Linguistics Conference (PLC 45), University of Pennsylvania, United States. https://www.ling.upenn.edu/Events/PLC/plc45/index.html
-Kırcalı, C.E., Uzun, İ.P., & Aydın, Ö. (2021, 19-20 February). Syntactic and Prosodic Processing of Quantifier Ambiguity in Turkish [Conference presentation]. 6th Workshop on Turkic and Languages in Contact with Turkic (TU+6). The University of Toronto. Toronto, Canada. http://tuworkshop6.linguistic.science/
-Kırcalı, C.E., Uzun, İ.P., & Aydın, Ö. (2021, 29-30 Nisan). Türkçede Odak Vurgusunun Niceleyicilere Etkisi [Kurultay sunusu]. 34. Ulusal Dilbilim Kurultayı. ODTÜ, Ankara. https://dilbilimkurultayi.metu.edu.tr/
+Kırcalı, C.E., Uzun, İ.P., & Aydın, Ö. (2021, 20-21 March). Syntactic and Prosodic Processing of Quantifier Ambiguity in Turkish. 45th annual Penn Linguistics Conference (PLC 45), University of Pennsylvania, United States. https://www.ling.upenn.edu/Events/PLC/plc45/index.html
+Kırcalı, C.E., Uzun, İ.P., & Aydın, Ö. (2021, 19-20 February). Syntactic and Prosodic Processing of Quantifier Ambiguity in Turkish. 6th Workshop on Turkic and Languages in Contact with Turkic (TU+6). The University of Toronto. Toronto, Canada. http://tuworkshop6.linguistic.science/
+Kırcalı, C.E., Uzun, İ.P., & Aydın, Ö. (2021, 29-30 Nisan). Türkçede Odak Vurgusunun Niceleyicilere Etkisi. 34. Ulusal Dilbilim Kurultayı. ODTÜ, Ankara. https://dilbilimkurultayi.metu.edu.tr/
 
 ##### (2020)
 Uzun, İ.P., Arslan, S., ve Aydın, Ö. (2020). What eye movements during silent reading can tell us about preverbal focus in Turkish?. Laboratory Phonology (LabPhon17). Vancouver, BC, Canada. 6-8 July, 2020.
