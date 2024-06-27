@@ -6,7 +6,7 @@ I completed my fellowship in 2014 with the TUBITAK BIDEB 2214/A International Ph
 
 Subsequently, I completed my post-doc on the acoustic characteristics of compound-phrase distinction in Turkish using the BIDEB 2219 Post-Doc Research Fellowship in the Phonetics Group at Saarland University, under the supervision of Bernd Möbius.
 
-![uzun](https://github.com/puzun/ipekpinaruzun-github.io/assets/56761290/2f86a2a1-1a05-423d-8dff-f619186e576f)
+![uzun](https://github.com/puzun/ipekpinaruzun-github.io/assets/56761290/b5fab8d9-14f2-4f96-ab9c-a2a5b356e51e)
 
 
 ## h2 Heading
