@@ -89,7 +89,7 @@ Researchers:: İclal Ergenç, Sıla Ay, İpek Pınar Uzun, Simge Aykan, Başak A
 Project No: 10B3030001
 
  
-## Publications
+# Publications
 
 #### (2023)
 Uzun, İ.P. (2023). Prosodic and analogical effects in phonetic realization in Turkish noun-noun compounds. Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi, 40(2).
@@ -149,7 +149,7 @@ Bekâr, İ.P. (2014). ‘Dilin Algılanması ve Anlamlandırılması Süreçleri
 Ergenç, İ. & Bekâr, İ.P. (2013). ‘Türkçede Ünsüz İkizleşmesi’. Dilbilim Araştırmaları Dergisi (Journal of Linguistic Research Vol.1/2013). Updates in Turkish Phonology. p. 173-191. Boğaziçi University Press.
 
  
-## Conferences & Seminars
+# Conferences & Seminars
 
 #### (2024)
 Uzun, İ.P. (2024). How pupillary responses reflect the predictability of word stress in Turkish. The International Conference on Speech Prosody Conference (SP24). Leiden, The Netherlands. (1-6 July, 2024). 
