@@ -151,6 +151,7 @@ Ergenç, İ. & Bekâr, İ.P. (2013). ‘Türkçede Ünsüz İkizleşmesi’. Dil
 
 #### (2024)
 Uzun, İ.P. (2024). How pupillary responses reflect the predictability of word stress in Turkish. The International Conference on Speech Prosody Conference (SP24). Leiden, The Netherlands. (1-6 July, 2024). 
+
 Arslan, M. N. & Uzun, İ.P. (2024). Türkçede ünlülerarası konumda /h/ ünsüzünün sözlü dilde üretimine ilişkin akustik sesbilgisel gözlemler. 37. Ulusal Dilbilim Kurultayı. Kocaeli, Kocaeli Üniversitesi.
 
 
