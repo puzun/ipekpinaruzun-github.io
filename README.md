@@ -48,7 +48,6 @@ Project No: 231K318
 Project Title: Türkçe Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Göz Hareketlerini İzleme Tekniğine Dayalı Bir Çözümleme
 Coordinator: İpek Pınar Uzun
 Researcher: Alper Kumcu
-Project Assistant: Selin Çalışkan
 Project No: 122K664
 
 ### (2022)
@@ -62,7 +61,6 @@ Advisor: Bernd Möbius
 Proje Title: Semantic Ambiguity in Quantifiers in Turkish: An Eye-Tracking Study
 Coordinator: Özgür Aydın
 Researcher: İpek Pınar Uzun
-Project Assistant: Cemre Ece Kırcalı
 Project No: 119K761
 
 ### (2013-2016)
