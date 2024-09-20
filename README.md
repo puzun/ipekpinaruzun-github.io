@@ -12,11 +12,11 @@ Subsequently, I completed my post-doc on the acoustic characteristics of compoun
 
 ## Conferences in 2024
 
+1-6 July 2024
+In July, I presented my paper, entitled "How pupillary responses reflect the predictability of word stress in Turkish", at the Speech Prosody Conference (SP24) organized in Leiden, The Netherlands. Paper is available in this link: https://www.isca-archive.org/speechprosody_2024/uzun24_speechprosody.pdf
+
 16-17 May 2024
 We presented our work with Merve Nur Arslan on the intervocalic position of Turkish /h/ at 37. National Conference on Linguistics in Kocaeli, Turkey 
-
-1-6 July 2024
-In July, I will present my paper, entitled "How pupillary responses reflect the predictability of word stress in Turkish", at the Speech Prosody Conference (SP24) organized in Leiden, The Netherlands.
 
 ## Summer School on Acoustic Phonetics 
 
