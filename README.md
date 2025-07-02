@@ -10,6 +10,21 @@ Subsequently, I completed my post-doc on the acoustic characteristics of compoun
 
 # Latest News 
 
+# Papers
+My first-authored paper with Seçkin Arslan and Özgür Aydın, entitled "What eye movements reveal about pre-verbal focus processing in Turkish: An eye-tracking study on sentence comprehension during reading", has been accepted for inclusion in "Empirical Insights into Language and Cognition", edited by Bilal Kırkıcı and forthcoming from Nobel (in press).
+
+Our joint paper with Merve Nur Arslan, entitled "An Acoustic Analysis of Surrounding Vowel Effects on Intervocalic /h/ in Turkish", was published in the Hacettepe University Journal of Faculty of Letters. You can access it here: https://doi.org/10.32600/huefd.1534383
+
+Our joint paper with Göktuğ Börtlü, entitled "Türkçede ünlü uzunluğunun Katı ZÜ kuramı çerçevesinde çözümlemesi", has been accepted for publication in the Journal of Turkish Language and Literature (TÜDED) (in press).
+
+## Conferences in 2025
+
+4-6 September 2025
+In September, at the 22nd International Conference on Turkish Linguistics organized by Dokuz Eylül University in İzmir, Turkey, we will present three papers (two talks and one poster presentation): the first is a joint paper with Ali Çağan Kaya and Berkay Bostan entitled "Eyes on the pupil size: Pupillary sensitivity to morphophonological mismatches in Turkish", the second is Elçin Elif Eren, Kardelen Çiftçi, and Özgür Aydın entitled “The interaction between the Transposed Letter Effect and Selective Attention: A Pupillometry Study", and the last one was with Merve Nur Arslan entitled “Acoustic Characteristics of Formant Frequencies and Transitions of /h/ in Turkish". 
+
+22-23 May 2025
+In May, at the 38th National Linguistic Conference organized by Atatürk University in Erzurum, Turkey, I presented two talks: the first was a joint paper with Merve Nur Arslan entitled "Türkçede /h/ ünsüzünün Akustik Örüntüleri: Ses Çevresinin Rolü", and the second was a joint paper with Elçin Elif Eren, Kardelen Çiftçi, and Özgür Aydın entitled "Bozulan Harf Etkisi ve Seçici Dikkat Etkileşimi: Bir Gözbebeği Ölçümü Çalışması".
+
 ## Conferences in 2024
 
 1-6 July 2024
