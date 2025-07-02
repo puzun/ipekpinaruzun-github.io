@@ -20,10 +20,18 @@ Our joint paper with Göktuğ Börtlü, entitled "Türkçede ünlü uzunluğunun
 ## Conferences in 2025
 
 4-6 September 2025
-In September, at the 22nd International Conference on Turkish Linguistics organized by Dokuz Eylül University in İzmir, Turkey, we will present three papers (two talks and one poster presentation): the first is a joint paper with Ali Çağan Kaya and Berkay Bostan entitled "Eyes on the pupil size: Pupillary sensitivity to morphophonological mismatches in Turkish", the second is Elçin Elif Eren, Kardelen Çiftçi, and Özgür Aydın entitled “The interaction between the Transposed Letter Effect and Selective Attention: A Pupillometry Study", and the last one was with Merve Nur Arslan entitled “Acoustic Characteristics of Formant Frequencies and Transitions of /h/ in Turkish". 
+In September, at the 22nd International Conference on Turkish Linguistics organized by Dokuz Eylül University in İzmir, Turkey, we will present three papers (two talks and one poster presentation): the first is a joint paper with Ali Çağan Kaya and Berkay Bostan entitled "Eyes on the pupil size: Pupillary sensitivity to morphophonological mismatches in Turkish", 
+
+the second is Elçin Elif Eren, Kardelen Çiftçi, and Özgür Aydın entitled “The interaction between the Transposed Letter Effect and Selective Attention: A Pupillometry Study", 
+
+and the last one was with Merve Nur Arslan entitled “Acoustic Characteristics of Formant Frequencies and Transitions of /h/ in Turkish". 
+
 
 22-23 May 2025
-In May, at the 38th National Linguistic Conference organized by Atatürk University in Erzurum, Turkey, I presented two talks: the first was a joint paper with Merve Nur Arslan entitled "Türkçede /h/ ünsüzünün Akustik Örüntüleri: Ses Çevresinin Rolü", and the second was a joint paper with Elçin Elif Eren, Kardelen Çiftçi, and Özgür Aydın entitled "Bozulan Harf Etkisi ve Seçici Dikkat Etkileşimi: Bir Gözbebeği Ölçümü Çalışması".
+In May, at the 38th National Linguistic Conference organized by Atatürk University in Erzurum, Turkey, I presented two talks: the first was a joint paper with Merve Nur Arslan entitled "Türkçede /h/ ünsüzünün Akustik Örüntüleri: Ses Çevresinin Rolü", 
+
+and the second was a joint paper with Elçin Elif Eren, Kardelen Çiftçi, and Özgür Aydın entitled "Bozulan Harf Etkisi ve Seçici Dikkat Etkileşimi: Bir Gözbebeği Ölçümü Çalışması".
+
 
 ## Conferences in 2024
 
@@ -31,7 +39,7 @@ In May, at the 38th National Linguistic Conference organized by Atatürk Univers
 In July, I presented my paper, entitled "How pupillary responses reflect the predictability of word stress in Turkish", at the Speech Prosody Conference (SP24) organized in Leiden, The Netherlands. Paper is available in this link: https://www.isca-archive.org/speechprosody_2024/uzun24_speechprosody.pdf
 
 16-17 May 2024
-We presented our work with Merve Nur Arslan on the intervocalic position of Turkish /h/ at 37. National Conference on Linguistics in Kocaeli, Turkey 
+We presented our work with Merve Nur Arslan on the intervocalic position of Turkish /h/ at 37th National Conference on Linguistics in Kocaeli, Turkey. 
 
 ## Summer School on Acoustic Phonetics 
 
