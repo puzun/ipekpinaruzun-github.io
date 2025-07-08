@@ -11,6 +11,9 @@ Subsequently, I completed my post-doc on the acoustic characteristics of compoun
 # Latest News 
 
 # Papers
+
+My first-authored paper with Alper Kumcu entitled "Looking at online language comprehension with the visual world paradigm: a systematic and cross-linguistic review of three decades", has been accepted to "Journal of Linguistic Research" (in press).
+
 My first-authored paper with Seçkin Arslan and Özgür Aydın, entitled "What eye movements reveal about pre-verbal focus processing in Turkish: An eye-tracking study on sentence comprehension during reading", has been accepted for inclusion in "Empirical Insights into Language and Cognition", edited by Bilal Kırkıcı and forthcoming from Nobel (in press).
 
 Our joint paper with Merve Nur Arslan, entitled "An Acoustic Analysis of Surrounding Vowel Effects on Intervocalic /h/ in Turkish", was published in the Hacettepe University Journal of Faculty of Letters. You can access it here: https://doi.org/10.32600/huefd.1534383
