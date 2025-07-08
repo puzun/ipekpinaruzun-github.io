@@ -10,7 +10,10 @@ Subsequently, I completed my post-doc on the acoustic characteristics of compoun
 
 # Latest News 
 
-# Papers
+# Papers in 2025
+
+My first-authored paper from 122K394 Tübitak 1002-A Project with Alper Kumcu, entitled "Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic and Cross-Linguistic Review of Three Decades, has been accepted to Journal of Linguistic Research.
+
 My first-authored paper with Seçkin Arslan and Özgür Aydın, entitled "What eye movements reveal about pre-verbal focus processing in Turkish: An eye-tracking study on sentence comprehension during reading", has been accepted for inclusion in "Empirical Insights into Language and Cognition", edited by Bilal Kırkıcı and forthcoming from Nobel (in press).
 
 Our joint paper with Merve Nur Arslan, entitled "An Acoustic Analysis of Surrounding Vowel Effects on Intervocalic /h/ in Turkish", was published in the Hacettepe University Journal of Faculty of Letters. You can access it here: https://doi.org/10.32600/huefd.1534383
@@ -114,8 +117,19 @@ Project No: 10B3030001
 
 # Publications
 
+#### (2025)
+
+Uzun, İ.P., & Kumcu, A. (2025). Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic and Cross-Linguistic Review of Three Decades. Journal of Linguistic Research (accepted, in press).
+
+Uzun, İ.P., Arslan, S., & Aydın, Ö. (2025). What eye movements reveal about pre-verbal focus processing in Turkish: An eye-tracking study on sentence comprehension during reading. B. Kırkıcı (ed.), Empirical Insights into Language and Cognition. Nobel (accepted, in press).
+
+Börtlü, G., & Uzun, İ.P. (2025). Türkçede ünlü uzunluğunun Katı ZÜ kuramı çerçevesinde çözümlemesi. Journal of Turkish Language and Literature (TÜDED) (accepted, in press).
+
+Arslan, M.N., & Uzun, İ.P. (2025). An Acoustic Analysis of Surrounding Vowel Effects on Intervocalic /h/ in Turkish. Hacettepe University Journal of Faculty of Letters. https://doi.org/10.32600/huefd.1534383
+
+
 #### (2023)
-Uzun, İ.P. (2023). Prosodic and analogical effects in phonetic realization in Turkish noun-noun compounds. Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi, 40(2).
+Uzun, İ.P. (2023). Prosodic and analogical effects in phonetic realization in Turkish noun-noun compounds. Hacettepe University Journal of Faculty of Letters, 40(2).
 
 
 #### (2022)
