@@ -40,6 +40,9 @@ the first was a joint paper with Merve Nur Arslan entitled "Türkçede /h/ üns�
 and the second was a joint paper with Elçin Elif Eren, Kardelen Çiftçi, and Özgür Aydın entitled "Bozulan Harf Etkisi ve Seçici Dikkat Etkileşimi: Bir Gözbebeği Ölçümü Çalışması".
 
 
+![1000030652](https://github.com/user-attachments/assets/a34399b9-a7b6-4f27-8452-502dae17a50e)
+
+
 ## Conferences in 2024
 
 1-6 July 2024
