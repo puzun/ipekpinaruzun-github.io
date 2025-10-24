@@ -10,7 +10,9 @@ Subsequently, I completed my post-doc on the acoustic characteristics of compoun
 
 # Latest News 
 
-# Papers
+# Papers in 2025
+
+Our joint paper with Selin Çalışkan and Alper Kumcu, entitled "The Syntactic Structure and Distance Effect on Sentence Processing in Turkish", has been accepted to the Mersin University Journal of Linguistics. 
 
 My first-authored paper with Alper Kumcu entitled "Looking at online language comprehension with the visual world paradigm: a systematic and cross-linguistic review of three decades", has been accepted to "Journal of Linguistic Research" (in press).
 
