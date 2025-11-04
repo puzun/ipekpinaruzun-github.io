@@ -12,7 +12,7 @@ Subsequently, I completed my post-doc on the acoustic characteristics of compoun
 
 # Papers in 2025
 
-Our joint paper with Selin Çalışkan and Alper Kumcu, entitled "The Syntactic Structure and Distance Effect on Sentence Processing in Turkish", has been accepted to the Mersin University Journal of Linguistics. 
+Our joint paper with Selin Çalışkan and Alper Kumcu, entitled "The Syntactic Structure and Distance Effect on Sentence Processing in Turkish", has been accepted to the Mersin University Journal of Linguistics (in press). 
 
 My first-authored paper with Alper Kumcu entitled "Looking at online language comprehension with the visual world paradigm: a systematic and cross-linguistic review of three decades", has been accepted to "Journal of Linguistic Research" (in press).
 
@@ -121,6 +121,22 @@ Project No: 10B3030001
 
 
 # Publications
+
+#### (2025) 	
+Uzun, İ.P., Arslan, S., & Aydın, Ö. (2025). What eye movements reveal about pre-verbal focus processing in Turkish: An eye-tracking study on sentence comprehension during reading. In B. Kırkıcı (ed.), Empirical Insights into Language and Cognition (pp. 159-189). Nobel.
+
+Uzun, İ.P., & Kumcu, A. (2025). Looking at online language comprehension with the visual world paradigm: a systematic and cross-linguistic review of three decades. Dilbilim Araştırmaları Dergisi.
+
+Arslan, M.N., & Uzun, İ.P. (2025). An acoustic analysis of surrounding vowel effects on intervocalic /h/ in Turkish. Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi , 42(1), 248-261.
+
+Börtlü, G., & Uzun, İ.P. (2025). Türkçede ünlü uzunluğunun Katı ZÜ kuramı çerçevesinde çözümlemesi. İstanbul Üniversitesi Türk Dili ve Edebiyatı Dergisi (TÜDED), 65(2), 324-336.
+
+Çalışkan, S., Kumcu, A., & Uzun, İ.P. (2025). The syntactic structure and distance effect on sentence processing in Turkish. Mersin Üniversitesi Dil ve Edebiyat Dergisi, 22 (2).
+
+
+#### (2024)
+Uzun, İ.P. (2024) How pupillary responses reflect the predictability of word stress in Turkish. Proc. Speech Prosody 2024, 1130-1134, doi: 10.21437/SpeechProsody.2024-228
+
 
 #### (2023)
 Uzun, İ.P. (2023). Prosodic and analogical effects in phonetic realization in Turkish noun-noun compounds. Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi, 40(2).
