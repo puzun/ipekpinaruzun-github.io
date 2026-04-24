@@ -8,6 +8,8 @@ Subsequently, I completed my post-doc on the acoustic characteristics of compoun
 
 ![uzun](https://github.com/puzun/ipekpinaruzun-github.io/assets/56761290/b5fab8d9-14f2-4f96-ab9c-a2a5b356e51e)
 
+<img width="204" height="192" alt="resim" src="https://github.com/user-attachments/assets/810ed81c-394d-4d25-8a89-1c56eca94e15" />
+
 # Latest News 
 
 # Papers in 2025
